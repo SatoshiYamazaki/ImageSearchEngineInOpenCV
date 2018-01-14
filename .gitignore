@@ -10,3 +10,4 @@ description.txt
 CMakeFiles
 *.cmake
 CMakeCache.txt
+/bin
