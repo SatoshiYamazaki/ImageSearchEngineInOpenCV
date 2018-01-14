@@ -6,3 +6,7 @@ description.txt
 /caltech101
 /caltech101_10
 /tmp
+.DS_Store
+CMakeFiles
+*.cmake
+CMakeCache.txt
